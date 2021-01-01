@@ -7,4 +7,4 @@ As a part of course EE5601
   * Expectation Maximization
 ***
 2. **Topics in EE18BTECH11044_HW1**
-  * Gaussian Mixture Model
+  * Gaussian Mixture Model using EM
